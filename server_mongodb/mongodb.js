@@ -11,6 +11,5 @@ module.exports = function() {
     });
 
     mongoose.connect('mongodb://localhost/mongodb_tutorial');
-
   
 };
